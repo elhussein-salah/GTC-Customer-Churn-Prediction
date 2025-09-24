@@ -55,7 +55,6 @@ A modern, interactive web app (`app.py`) was built for business users and data s
     - **SHAP Waterfall Plot:** Explains the prediction for each individual customer.
     - **Feature Importance & EDA Charts:** Bar plots and distributions for key features and churn outcomes.
 - **Downloadable Results:** Users can download churn predictions for their uploaded data.
-- **Dark Mode:** The app supports dark mode via Streamlit's theme configuration.
 - **Performance:** The model is compressed for fast loading and efficient deployment.
 
 ---
@@ -90,6 +89,7 @@ The project successfully delivered a robust, interpretable churn prediction solu
 ├── app.py                       # Streamlit web app
 ├── customer_churn_prediction_gtc.ipynb  # Full data science notebook
 ├── model.pkl                    # Compressed trained model (joblib)
+├── model.py                    # model clean python code with comments
 ├── encoders.pkl                 # Categorical feature encoders
 ├── WA_Fn-UseC_-Telco-Customer-Churn.csv            # Dataset
 └── README.md                    # Project documentation
