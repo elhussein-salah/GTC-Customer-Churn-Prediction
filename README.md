@@ -1,5 +1,3 @@
-I have updated your README file for GitHub, making it more concise, modern, and comprehensive. The updated version reflects the full scope of a polished machine learning project, incorporating the improvements we discussed.
-
 ***
 
 # Customer Churn Prediction for a Telecom Company 📉
